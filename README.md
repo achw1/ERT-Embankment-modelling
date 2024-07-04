@@ -2,7 +2,7 @@
 
 Code for the ERT  modeling presented in 'Assessing the effect of offline topography on electrical resistivity measurements: insights from flood embankments.' 
 
-Authors: Adrian White(a, c), James Boyd (a, b), Paul Wilkinson(a), Holly E. Unwin(a), James Wookey(c), John Michael Kendall(d), Andrew Binley(b), Jonathan Chambers(a). 
+Authors: Adrian White (a, c), James Boyd (a, b), Paul Wilkinson (a), Holly E. Unwin (a), James Wookey (c), John Michael Kendall (d), Andrew Binley (b), Jonathan Chambers (a). 
 
 a.	British Geological Survey, Nottingham, United Kingdom*
 b.	Lancaster University, Lancaster, United Kingdom
@@ -20,6 +20,7 @@ d.	University of Oxford, Oxford, United Kingdom
   - Figures with different E.ipynb Jupyter notebook visulising the outputs of the ERT forward models. It reads in the file from the folder that is created called '3_combined_results'
 
 ## Folder structure:
+THis foulder structure is required to run the forward modelling.
 
 > Working Directory
 - Automation variables.py
