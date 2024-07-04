@@ -10,13 +10,13 @@ c.	University of Bristol, Bristol, United Kingdom
 d.	University of Oxford, Oxford, United Kingdom
 
 File details:
-Automation variables.py - Script to run the forward modelling functions to calculate topographic effects for a range of embankment topographies
-layered_ground_auntomation.py - A module containing fuctions run by Automation variables.py
-R3t_embankment.in - R3t.in file for the embankment model (must be renamed as R3t.in to run)
-R3t_layered_ground.in - R3t.in file for the layered-ground (flat) model (must be renamed as R3t.in to run)
-protocol.dat - protocol file describing each 4 electrode measurement in terms of electrode number.
-survey-parameters.csv key details for each measurement.
-effective_depth.py function to calculate effective depth from a 4 point measurement assuming homogenous ground
+  - Automation variables.py - Script to run the forward modelling functions to calculate topographic effects for a range of embankment topographies
+  - layered_ground_auntomation.py - A module containing fuctions run by Automation variables.py
+  - R3t_embankment.in - R3t.in file for the embankment model (must be renamed as R3t.in to run)
+  - R3t_layered_ground.in - R3t.in file for the layered-ground (flat) model (must be renamed as R3t.in to run)
+  - protocol.dat - protocol file describing each 4 electrode measurement in terms of electrode number.
+  - survey-parameters.csv key details for each measurement.
+  - effective_depth.py function to calculate effective depth from a 4 point measurement assuming homogenous ground
 
 Folder structure (stating out):
 
