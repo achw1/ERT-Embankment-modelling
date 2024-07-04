@@ -17,6 +17,7 @@ d.	University of Oxford, Oxford, United Kingdom
   - protocol.dat - protocol file describing each 4 electrode measurement in terms of electrode number.
   - survey-parameters.csv - key details for each measurement.
   - effective_depth.py - function to calculate effective depth from a 4 point measurement assuming homogenous ground
+  - Figures with different E.ipynb Jupyter notebook visulising the outputs of the ERT forward models. It reads in the file from the folder that is created called '3_combined_results'
 
 ## Folder structure:
 
