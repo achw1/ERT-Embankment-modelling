@@ -18,10 +18,10 @@ File details:
   - survey-parameters.csv key details for each measurement.
   - effective_depth.py function to calculate effective depth from a 4 point measurement assuming homogenous ground
 
-Folder structure (stating out):
+Folder structure:
 
-Working Directory
--Automation variables.py
+> Working Directory
+- Automation variables.py
 - layered_ground_auntomation.py
 
   > R3t_embankment
